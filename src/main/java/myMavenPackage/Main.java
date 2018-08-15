@@ -9,9 +9,7 @@ public class Main {
         //System.out.println(annotation1.boat());
     }
 }
-
-class City {
-    private static void Y(boolean y, double q, char w) {
-
+class Master {
+    protected static void High (boolean t){
     }
 }
