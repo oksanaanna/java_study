@@ -2,6 +2,7 @@ package myMavenPackage;
 
 public class Main {
     public static void main(String[] args) {
+
         TestClass testClass = new TestClass();
         MyAnnotation annotation = testClass.getClass().getAnnotation(MyAnnotation.class);
         System.out.println(annotation.color());
@@ -13,5 +14,7 @@ public class Main {
 class City {
     private static void Y(boolean y, double q, char w) {
 
+    }public static int TT (char w, short e, long ff, boolean ww){
+        return -1;
     }
 }
