@@ -16,5 +16,7 @@ class City {
 
     }public static int TT (char w, short e, long ff, boolean ww){
         return -1;
+    } public static void Tom (int e){
+
     }
 }
