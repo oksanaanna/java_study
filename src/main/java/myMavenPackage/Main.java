@@ -11,5 +11,11 @@ public class Main {
 }
 class Master {
     protected static void High (boolean t){
+        System.out.println(t);
     }
-}
+} interface G {
+
+    }
+
+
+
