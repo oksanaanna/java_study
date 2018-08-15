@@ -4,9 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("123");
         System.out.println("123");
-        System.out.println("123");
-        int q = 1;
-        System.out.println(q);
+        boolean a = false;
+        System.out.println("Three");
     }
 } class Friend{
     void True (boolean a){
