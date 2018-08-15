@@ -5,6 +5,9 @@ public class Main {
         int q = 1;
         System.out.println(q);
     }
+} class Friend{
+    void True (boolean a){}
+
 }
 
 
